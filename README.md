@@ -8,5 +8,7 @@ En este curso vemos todo:
 * El flujo de trabajo en Github
 * El verdadero amor a las buenas practicas
 * Creado por el increible platzi team
+* Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO LO TOMES EN SERIO y mejor ve a ver el curso. 
